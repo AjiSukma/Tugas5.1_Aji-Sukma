@@ -1,0 +1,34 @@
+*.box1 {
+  background-color: yellow;
+  width: 250px;
+  height: 700px;
+}
+
+.box2 {
+  background-color: red;
+  width: 250px;
+  height: 700px;
+  position: relative;
+  left: 330px;
+  top: -717px;
+}
+
+.box4 {
+  background-color: blue;
+  width: 250px;
+  height: 700px;
+  float: right;
+  position: relative;
+  top: -1417px;
+  
+}
+
+.box3 {
+  background-color: purple;
+  width: 250px;
+  height: 700px;
+  float: right;
+  position: relative;
+  right: 80px;
+  top: -1417px;
+}
